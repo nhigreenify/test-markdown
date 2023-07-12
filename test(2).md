@@ -1,4 +1,4 @@
-<style type="text/css" rel="stylesheet">
+<head><style type="text/css" rel="stylesheet">
   a:-webkit-any-link {
     color: -webkit-link;
     cursor: pointer;
@@ -27,7 +27,7 @@ p{
   border-radius: 50%;
 }
 
-</style>
+</style></head>
 
 
 # Hello
