@@ -1,6 +1,38 @@
+<style type="text/css" rel="stylesheet">
+  a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+}
+
+p{
+  color: blue;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+/* css by id */
+#Introduction {
+    color: red;
+}
+
+.square {
+    background-color: rgb(0, 255, 145);
+    width: 200px;
+    height: 200px;
+  }
+.circle
+{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+</style>
+
+
 # Hello
 
-<p style="color:red;"> Directus is a real-time API and App dashboard for managing SQL database content content. </p>
+<p style="font-size:;"> Directus is a real-time API and App dashboard for managing SQL database content content. </p>
 
 - **Free & open-source.** No artificial limitations, vendor lock-in, or hidden paywalls.
 - **REST & GraphQL API.** Instantly layers a blazingly fast Node.js API on top of any SQL database.
@@ -53,36 +85,4 @@
 
 # Rectangle
 <div class="rectangle"></div>
-
-<style>
-  a:-webkit-any-link {
-    color: -webkit-link;
-    cursor: pointer;
-}
-
-p{
-  color: blue;
-  font-size: 20px;
-  font-family: 'Times New Roman', Times, serif;
-}
-/* css by id */
-#Introduction {
-    color: red;
-}
-
-.square {
-    background-color: rgb(0, 255, 145);
-    width: 200px;
-    height: 200px;
-  }
-.circle
-{
-  background-color: blue;
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
-}
-
-</style>
-
 
