@@ -32,7 +32,7 @@ p{
 
 # Hello
 
-<p style="font-size:;"> Directus is a real-time API and App dashboard for managing SQL database content content. </p>
+<p style="font-size: 50px;"> Directus is a real-time API and App dashboard for managing SQL database content content. </p>
 
 - **Free & open-source.** No artificial limitations, vendor lock-in, or hidden paywalls.
 - **REST & GraphQL API.** Instantly layers a blazingly fast Node.js API on top of any SQL database.
